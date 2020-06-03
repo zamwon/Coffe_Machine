@@ -1,0 +1,23 @@
+[1;31m
+Start test 1[0m
+Starting to make a coffee
+Grinding coffee beans
+Boiling water
+.Mixing boiled water with crushed coffee beans
+Pouring coffee into the cup
+Pouring some milk into the cup
+Coffee is ready!
+,Write how many cups of coffee you will need:
+> 300
+&For 300 cups of coffee you will need:
+60000 ml of water
+15000 ml of milk
+4500 g of coffee beans
+
+2Write how many ml of water the coffee machine has:
+> 65
+1Write how many ml of milk the coffee machine has:
+> 111
+<Write how many grams of coffee beans the coffee machine has:
+> 1
+,Write how many cups of coffee you will need:
